@@ -1,0 +1,86 @@
+body {
+    display: flex;
+    justify-content: space-evenly;
+    font-family: "Roboto", serif;
+    border: 3px solid black;
+
+
+}
+
+.six {
+    height: 30px;
+    width: 42px;
+    border: 4px solid gray;
+    padding: 50px;
+    border-radius: 200px;
+    font-size: 30px;
+    font-weight: 800;
+    margin-left: 50px;
+}
+
+.profile {
+
+    font-size: 30px;
+
+}
+
+#others {
+    height: 290px;
+    /* border: 2px solid red; */
+    padding: 30px;
+    border-radius: 20px;
+    background-color: lightgray;
+    font-size: 20px;
+}
+
+#others #p1 {
+    color: gray;
+}
+
+.name {
+    font-size: 25px;
+}
+
+#name {
+    height: 40px;
+    width: 300px;
+    padding: 13px;
+    font-size: 20px;
+    border-radius: 20px;
+    border-style: none;
+    border: 3px solid black;
+}
+
+.mail {
+    font-size: 25px;
+}
+
+#inputpass {
+    height: 40px;
+    width: 300px;
+    padding: 13px;
+    font-size: 20px;
+    border-radius: 20px;
+    border-style: none;
+    border: 3px solid black;
+}
+
+.entpas {
+    font-size: 25px;
+}
+
+.confpas {
+    font-size: 25px;
+}
+
+.button {
+    height: 50px;
+    width: 330px;
+    font-size: 20px;
+    border-radius: 15px;
+    border-style: none;
+    background-color: black;
+    color: white;
+
+
+}
